@@ -1,0 +1,10 @@
+# ninja log v6
+31	1391	7640974427454919	CMakeFiles/Sorular.dir/main.cpp.obj	40d945b017e7df43
+3	809	7641823175208093	build.ninja	2b9525d62274aaf6
+1392	1641	7640974441063809	Sorular.exe	e233ae7c9f647871
+49	377	7640844532619151	CMakeFiles/Sorular.dir/Src/binary/binarysearch.cpp.obj	656174a230bd3d6f
+59	1638	7640844532719174	CMakeFiles/Sorular.dir/Src/vectorTravelller/vectorGame.cpp.obj	7885de5bb96699f5
+74	355	7641823258411374	CMakeFiles/Sorular.dir/Src/binary/binarysearch.cpp.obj	9b3a399a157f6a5e
+66	1585	7641823258329719	CMakeFiles/Sorular.dir/main.cpp.obj	e95672cf79da2d4b
+80	1724	7641823258462501	CMakeFiles/Sorular.dir/Src/vectorTravelller/vectorGame.cpp.obj	8dde0c9257c896ef
+1726	2018	7641823274924705	Sorular.exe	e233ae7c9f647871

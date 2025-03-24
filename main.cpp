@@ -52,6 +52,7 @@ int main() {
     }
     */
 
+    /*
     // LİNKED LİST TEST
     LinkedList<int> L;
     L.pushback(5);
@@ -65,6 +66,8 @@ int main() {
 
     L.DualEleminater();
     L.print();
+
+     */
 
 
 
